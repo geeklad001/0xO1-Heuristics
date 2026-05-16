@@ -14,6 +14,7 @@ This is my LeetCode journey.
 |0121|[Best Time to Buy and Sell Stock](./01_Arrays_and_Hashing/0121_Best_Time_to_Buy_and_Sell_Stock/solution.cpp)|Array|O(N)|O(1)|Dynamic Programming.|
 |0125|[Valid Palindrome](./02_Two_Pointers/0125_Valid_Palindrome/solution.cpp)|Pointers|O(N)|O(1)|Use double pointers for fast compare.|
 |0152|[Maximum Product Subarray](./01_Arrays_and_Hashing/0152_Maximum_Product_Subarray/solution.cpp)|Array|O(N)|O(1)|Use dynamic programming|
+|0153|[Find Minimum in Rotated Sorted Array](./01_Arrays_and_Hashing/0153_Find_Minimum_in_Rotated_Sorted_Array/solution.cpp)|Array|O(logN)|O(1)|Use Binary Search|
 |0190|[Reverse Bits](./18_Bit_Manipulation/190_Reverse_Bits/solution.cpp)|Integer|O(1)|O(1)|It's intuitive.|
 |0191|[Number of  1 Bits](./18_Bit_Manipulation/0191_Number_of_1_Bits/solution.cpp)|integer|O(K)|O(1)|It's simply easy.|
 |0217|[Contains Duplicate](./01_Arrays_and_Hashing/0217_Contains_Duplicate/solution.cpp)|Array|O(N)|O(N)|Use `std::unordered_set`|
